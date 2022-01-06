@@ -95,7 +95,7 @@ h3 {
     
 }
 
-.portfolio-options img, video {
+.portfolio-options img, .portfolio-options video {
     border-width: 5px;
     border-style: solid;
     border-color: #69575F;
